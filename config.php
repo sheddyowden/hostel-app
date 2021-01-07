@@ -1,7 +1,7 @@
 <?php
 define('CURRENCY', '$');
-define('WEB_URL', 'http://127.0.0.1/ams/');
-define('ROOT_PATH', 'C:\wamp\www\ams/');
+define('WEB_URL', 'https://makazy.netlify.app/');
+define('ROOT_PATH', 'https://makazy.netlify.app/');
 
 
 define('DB_HOSTNAME', '127.0.0.1');
